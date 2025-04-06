@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
 <body>
   <div align="center">
     <a href="https://git.io/typing-svg">
@@ -38,13 +42,13 @@
     <table align="center">
       <tr>
         <td>
-          <img src="https://github-readme-stats.vercel.app/api?username=httpeduardo&show_icons=true&theme=dark&hide_title=true" />
+          <img src="https://github-readme-stats.vercel.app/api?username=httpeduardo&show_icons=true&theme=dark&hide_title=true" width="400" />
         </td>
         <td>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpeduardo&show_icons=true&theme=dark&layout=compact&hide_title=true" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpeduardo&show_icons=true&theme=dark&layout=compact&hide_title=true" width="350" />
         </td>
         <td>
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=httpeduardo&theme=dark" />
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=httpeduardo&theme=dark" width="350" />
         </td>
       </tr>
     </table>
