@@ -17,7 +17,7 @@
   <p align="center">
     I'm currently working as a <strong>Tech Lead</strong>, focusing on the development of AI-driven solutions for <strong>Warehouse Automation</strong>. I work with <strong>Python</strong>, neural networks, computer vision, and orchestration systems that bring intelligence to real-world logistics.<br><br>
     I have experience with tools like <strong>FastAPI</strong>, <strong>OpenCV</strong>, <strong>TensorFlow</strong> and <strong>PyTorch</strong>, and I regularly deploy projects using <strong>AWS</strong> services such as Lambda, S3, ECS and SageMaker.<br><br>
-    I enjoy solving complex problems and turning ideas into scalable systems.
+    I enjoy solving complex problems and turning ideas into scalable systems. And I luv my GF
   </p>
 
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
