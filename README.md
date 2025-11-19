@@ -108,28 +108,36 @@ Currently serving as **Engineering Coordinator**, leading the development of cut
 
 ##  Professional Experience
 
-```python
-class EngineeringCoordinator:
-    def __init__(self):
-        self.role = "Engineering Coordinator"
-        self.focus = ["AI/ML", "Warehouse Automation", "System Architecture"]
-        self.tech_stack = {
-            "languages": ["Python", "C++", "C#", "TypeScript"],
-            "ml_frameworks": ["TensorFlow", "PyTorch", "OpenCV"],
-            "cloud": ["AWS Lambda", "ECS", "SageMaker", "S3"],
-            "backend": ["FastAPI", "asyncio", "microservices"],
-            "databases": ["PostgreSQL", "MongoDB", "Redis"]
-        }
-    
-    def get_expertise(self):
-        return [
-            "Building intelligent automation systems",
-            "Leading engineering teams",
-            "Architecting scalable cloud solutions",
-            "Deploying production ML models",
-            "Optimizing logistics operations with AI"
-        ]
-```
+<table>
+<tr>
+<td width="50%">
+
+###  Current Role
+**Engineering Coordinator**  
+Leading AI-powered warehouse automation initiatives
+
+###  Focus Areas
+-  **AI/ML Engineering**
+-  **Warehouse Automation**
+-  **System Architecture**
+-  **Team Leadership**
+
+</td>
+<td width="50%">
+
+###  Core Expertise
+ Building intelligent automation systems  
+ Leading engineering teams  
+ Architecting scalable cloud solutions  
+ Deploying production ML models  
+ Optimizing logistics operations with AI
+
+###  Tech Leadership
+Driving innovation in logistics through AI, computer vision, and cloud-native architectures
+
+</td>
+</tr>
+</table>
 
 ---
 
