@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=200&section=header&text=Eduardo%20Silva&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Engineering%20Coordinator%20%7C%20AI%20%26%20Automation%20Specialist&descAlignY=55&descSize=20"/>
 </div>
 
@@ -8,7 +8,7 @@
 
 <br>
 
-## 🎯 Professional Overview
+##  Professional Overview
 
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
@@ -16,18 +16,18 @@ Currently serving as **Engineering Coordinator**, leading the development of cut
 
 ### Core Competencies
 
-- 🧠 **AI/ML Engineering**: Deep learning, computer vision, neural network optimization
-- 🏗️ **System Architecture**: Distributed systems, microservices, event-driven design
-- ☁️ **Cloud Infrastructure**: AWS (Lambda, ECS, SageMaker, S3), serverless architectures
-- 🐍 **Backend Development**: Python, FastAPI, asyncio, high-performance APIs
-- 📹 **Computer Vision**: OpenCV, object detection, image processing pipelines
-- 🤖 **MLOps**: Model deployment, monitoring, continuous training pipelines
+-  **AI/ML Engineering**: Deep learning, computer vision, neural network optimization
+-  **System Architecture**: Distributed systems, microservices, event-driven design
+-  **Cloud Infrastructure**: AWS (Lambda, ECS, SageMaker, S3), serverless architectures
+-  **Backend Development**: Python, FastAPI, asyncio, high-performance APIs
+-  **Computer Vision**: OpenCV, object detection, image processing pipelines
+-  **MLOps**: Model deployment, monitoring, continuous training pipelines
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 <div align="center">
 
@@ -63,7 +63,7 @@ Currently serving as **Engineering Coordinator**, leading the development of cut
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=httpEduardo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=4A9EFF&icon_color=4A9EFF&text_color=c9d1d9"/>
@@ -80,7 +80,7 @@ Currently serving as **Engineering Coordinator**, leading the development of cut
 
 ---
 
-## 🏆 Achievements & Recognitions
+##  Achievements & Recognitions
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=httpEduardo&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A" />
@@ -88,7 +88,7 @@ Currently serving as **Engineering Coordinator**, leading the development of cut
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
@@ -96,7 +96,7 @@ Currently serving as **Engineering Coordinator**, leading the development of cut
 
 </div>
 
-### 🔬 Current Focus Areas
+###  Current Focus Areas
 
 - **Advanced AI Systems**: Developing next-generation warehouse automation using deep learning
 - **Computer Vision**: Real-time object detection and tracking for logistics optimization
@@ -106,7 +106,7 @@ Currently serving as **Engineering Coordinator**, leading the development of cut
 
 ---
 
-## 💼 Professional Experience
+##  Professional Experience
 
 ```python
 class EngineeringCoordinator:
@@ -133,7 +133,7 @@ class EngineeringCoordinator:
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
@@ -146,7 +146,7 @@ class EngineeringCoordinator:
 
 ---
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=httpEduardo&theme=github_dark" width="90%" />
@@ -154,7 +154,7 @@ class EngineeringCoordinator:
 
 ---
 
-## 💡 Random Dev Quote
+##  Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
@@ -164,11 +164,11 @@ class EngineeringCoordinator:
 
 <div align="center">
   
-### 👁️ Profile Views
+###  Profile Views
 
 ![Visitor Count](https://profile-counter.glitch.me/httpEduardo/count.svg)
 
-*Engineering the future, one commit at a time* 🚀
+*Engineering the future, one commit at a time* 
 
 </div>
 
