@@ -1,16 +1,3 @@
-﻿<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=200&section=header&text=Eduardo%20Silva&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Engineering%20Coordinator%20%7C%20AI%20%26%20Automation%20Specialist&descAlignY=55&descSize=20"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4A9EFF&center=true&vCenter=true&width=700&lines=Engineering+Coordinator+%F0%9F%9A%80;AI+%26+Warehouse+Automation+Expert;Building+Intelligent+Systems;Python+%7C+AWS+%7C+Computer+Vision;Transforming+Logistics+with+AI" alt="Typing SVG" />
-</div>
-
-<br>
-
-##  Professional Overview
-
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 Currently serving as **Engineering Coordinator**, leading the development of cutting-edge **AI-powered warehouse automation systems**. My expertise lies in architecting scalable, intelligent solutions that bridge the gap between artificial intelligence and real-world logistics operations.
 
