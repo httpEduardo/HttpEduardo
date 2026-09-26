@@ -55,6 +55,4 @@ I lead engineering work on AI-powered warehouse automation, building practical s
 ## Let's connect
 
 - [LinkedIn](https://www.linkedin.com/in/eduardovpaim/)
-- [GitHub](https://github.com/httpEduardo)
-- [Portfolio](https://httpeduardo.dev)
 - [Email](mailto:contact@httpeduardo.dev)
