@@ -8,9 +8,6 @@
   <a href="https://www.linkedin.com/in/eduardovpaim/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn">
   </a>
-  <a href="https://github.com/httpEduardo">
-    <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects">
-  </a>
 </p>
 
 ## About
