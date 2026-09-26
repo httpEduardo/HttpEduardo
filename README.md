@@ -1,170 +1,60 @@
+<h1 align="center">Hi, I'm Eduardo 👋</h1>
 
-Currently serving as **Engineering Coordinator**, leading the development of cutting-edge **AI-powered warehouse automation systems**. My expertise lies in architecting scalable, intelligent solutions that bridge the gap between artificial intelligence and real-world logistics operations.
+<p align="center">
+  Engineering Coordinator · AI · Warehouse Automation
+</p>
 
-### Core Competencies
+<p align="center">
+  <a href="https://www.linkedin.com/in/eduardovpaim/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn">
+  </a>
+  <a href="https://github.com/httpEduardo">
+    <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects">
+  </a>
+</p>
 
--  **AI/ML Engineering**: Deep learning, computer vision, neural network optimization
--  **System Architecture**: Distributed systems, microservices, event-driven design
--  **Cloud Infrastructure**: AWS (Lambda, ECS, SageMaker, S3), serverless architectures
--  **Backend Development**: Python, FastAPI, asyncio, high-performance APIs
--  **Computer Vision**: OpenCV, object detection, image processing pipelines
--  **MLOps**: Model deployment, monitoring, continuous training pipelines
+## About
 
-<br clear="right"/>
+I lead engineering work on AI-powered warehouse automation, building practical systems that connect machine learning, computer vision, and logistics. I enjoy turning complex problems into reliable software and helping teams deliver it.
 
----
+## What I work on
 
-##  Technology Stack
+- AI and computer vision for warehouse operations
+- Scalable backend systems and cloud architecture
+- ML deployment and production pipelines
+- Engineering leadership and team coordination
 
-<div align="center">
+## Tools I use
 
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+**Languages & backend**
 
-### AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+**AI & data**
 
-### Databases & Message Queues
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-</div>
+**Cloud & infrastructure**
 
----
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 
-##  GitHub Analytics
+## Featured project
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=httpEduardo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=4A9EFF&icon_color=4A9EFF&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpEduardo&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4A9EFF&text_color=c9d1d9&langs_count=8"/>
-</div>
+[![Kernel-VangDBlock](https://github-readme-stats.vercel.app/api/pin/?username=httpEduardo&repo=Kernel-VangDBlock&theme=github_dark&hide_border=true)](https://github.com/httpEduardo/Kernel-VangDBlock)
 
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=httpEduardo&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=4A9EFF&ring=4A9EFF&fire=FF6B6B&currStreakLabel=4A9EFF"/>
-</div>
+## Let's connect
 
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=httpEduardo&theme=github-compact&hide_border=true&bg_color=0d1117&color=4A9EFF&line=4A9EFF&point=58A6FF"/>
-</div>
-
----
-
-##  Achievements & Recognitions
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=httpEduardo&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A" />
-</div>
-
----
-
-##  Featured Projects
-
-<div align="center">
-
-[![Kernel VangDBlock](https://github-readme-stats.vercel.app/api/pin/?username=httpEduardo&repo=Kernel-VangDBlock&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4A9EFF&icon_color=4A9EFF&text_color=c9d1d9)](https://github.com/httpEduardo/Kernel-VangDBlock)
-
-</div>
-
-###  Current Focus Areas
-
-- **Advanced AI Systems**: Developing next-generation warehouse automation using deep learning
-- **Computer Vision**: Real-time object detection and tracking for logistics optimization
-- **Kernel-Mode Security**: Building low-level security monitoring systems for Windows
-- **MLOps Infrastructure**: Designing scalable ML pipelines with AWS SageMaker
-- **Team Leadership**: Coordinating engineering teams to deliver high-impact solutions
-
----
-
-##  Professional Experience
-
-<table>
-<tr>
-<td width="50%">
-
-###  Current Role
-**Engineering Coordinator**  
-Leading AI-powered warehouse automation initiatives
-
-###  Focus Areas
--  **AI/ML Engineering**
--  **Warehouse Automation**
--  **System Architecture**
--  **Team Leadership**
-
-</td>
-<td width="50%">
-
-###  Core Expertise
- Building intelligent automation systems  
- Leading engineering teams  
- Architecting scalable cloud solutions  
- Deploying production ML models  
- Optimizing logistics operations with AI
-
-###  Tech Leadership
-Driving innovation in logistics through AI, computer vision, and cloud-native architectures
-
-</td>
-</tr>
-</table>
-
----
-
-##  Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/httpEduardo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardovpaim/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@httpeduardo.dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://httpeduardo.dev)
-
-</div>
-
----
-
-##  Contribution Graph
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=httpEduardo&theme=github_dark" width="90%" />
-</div>
-
----
-
-##  Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</div>
-
----
-
-<div align="center">
-  
-###  Profile Views
-
-![Visitor Count](https://profile-counter.glitch.me/httpEduardo/count.svg)
-
-*Engineering the future, one commit at a time* 
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=120&section=footer"/>
+- [LinkedIn](https://www.linkedin.com/in/eduardovpaim/)
+- [GitHub](https://github.com/httpEduardo)
+- [Portfolio](https://httpeduardo.dev)
+- [Email](mailto:contact@httpeduardo.dev)
