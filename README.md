@@ -48,8 +48,3 @@ I lead engineering work on AI-powered warehouse automation, building practical s
 ## Featured project
 
 [![Kernel-VangDBlock](https://github-readme-stats.vercel.app/api/pin/?username=httpEduardo&repo=Kernel-VangDBlock&theme=github_dark&hide_border=true)](https://github.com/httpEduardo/Kernel-VangDBlock)
-
-## Let's connect
-
-- [LinkedIn](https://www.linkedin.com/in/eduardovpaim/)
-- [Email](mailto:contact@httpeduardo.dev)
