@@ -44,7 +44,3 @@ I lead engineering work on AI-powered warehouse automation, building practical s
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-
-## Featured project
-
-[![Kernel-VangDBlock](https://github-readme-stats.vercel.app/api/pin/?username=httpEduardo&repo=Kernel-VangDBlock&theme=github_dark&hide_border=true)](https://github.com/httpEduardo/Kernel-VangDBlock)
