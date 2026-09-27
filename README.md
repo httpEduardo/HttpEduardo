@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Eduardo 👋</h1>
 
 <p align="center">
-  Engineering Coordinator · AI · Warehouse Automation
+  Engineering Coordinator · AI · Python/Java/Javascript/PHP
 </p>
 
 <p align="center">
